@@ -8,7 +8,19 @@ I focus on building actually useful applications - nothing fancy just tools that
 
 ## 🧪 What I'm Working On
 
-Right now I'm working on a few private.............
+Right now I'm working on a few private projects through my internship, as well as building personal tools using Supabase and Next.js.
+
+You can also see my earlier projects, a physics simulation on my [GitHub Repos](https://github.com/BenjaminBerkes?tab=repositories).
+
+---
+
+## 🚀 My Goals & Growth So Far
+
+- Actively looking for **junior software/web developer roles**
+- Completed **CS50P (Intro to Python)** from HarvardX
+
+---
+
 <!--
 **BenjaminBerkes/BenjaminBerkes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
